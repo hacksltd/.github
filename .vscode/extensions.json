@@ -1,0 +1,17 @@
+{
+  "recommendations": [
+
+    /* List here any VS Code extensions that support the file formats,
+    languages, and tools that are used in this repository. */
+
+    /* AsciiDoc — Provides language support for AsciiDoc. */
+    "asciidoctor.asciidoctor-vscode",
+
+    /* AsciiDoc Snippets — Snippets for AsciiDoc for PDF and HTML output. */
+    "travismichette.adoc-snippets",
+
+    /* EditorConfig — .editorconfig file support. */
+    "editorconfig.editorconfig",
+
+  ]
+}
