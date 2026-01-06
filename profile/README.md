@@ -1,6 +1,5 @@
-# 🏢 Hacks Ltd
+# 🧑‍💻 Hacks Ltd
 
-Welcome to the team page for **Hacks Ltd** on GitHub.
+Welcome to the **Hacks Ltd** team page on GitHub.
 
-This is where we maintain all the components of our enterprise software-as-a-service platform, plus custom tools and automation configuration, and supplementary artifacts such as documentation and requirements specifications.
-
+If you're a member of this organization, please login to GitHub to see our **Getting Started** guide.
