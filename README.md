@@ -6,4 +6,4 @@ This version of the README is shown to the general public (non-organization memb
 
 ****
 
-Copyright © 2025-present Hacks Ltd, all rights reserved.
+Copyright © 2020-present Hacks Ltd, all rights reserved.
