@@ -1,6 +1,6 @@
 ---
 name: Maintenance
-about: Plan a routine housekeeping chore, eg. documentation edits
+about: Plan a routine housekeeping task
 title: ""
 labels: MAINTENANCE
 assignees: ""

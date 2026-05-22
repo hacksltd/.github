@@ -1,6 +1,6 @@
 ---
 name: Incident
-about: Alert an event that unexpectedly disrupted or degraded production services
+about: Log an event that unexpectedly disrupted or degraded production services
 title: ""
 labels: INCIDENT
 assignees: ""

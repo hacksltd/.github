@@ -1,6 +1,6 @@
 ---
 name: Performance
-about: Define a new constraint within which the system must operate
+about: Define a constraint within which the system must perform
 title: ""
 labels: PERFORMANCE
 assignees: ""
